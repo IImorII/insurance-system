@@ -1,0 +1,12 @@
+package by.atsitou.payment.infrastructure.adapters.jobs;
+
+import io.micronaut.context.annotation.ConfigurationProperties;
+import lombok.Getter;
+import lombok.Setter;
+
+@ConfigurationProperties("payments")
+@Getter
+@Setter
+class BankStatementImportJobCfg {
+    private String importDir = "c:\\temp\\bank_imports";  
+}

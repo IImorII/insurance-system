@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: by.atsitou.policy
+---
+testFramework: junit
+sourceLanguage: java

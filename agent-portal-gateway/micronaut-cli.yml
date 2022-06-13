@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: by.atsitou.gateway
+---
+testFramework: junit
+sourceLanguage: java

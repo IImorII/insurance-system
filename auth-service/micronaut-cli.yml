@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: by.atsitou.auth
+---
+testFramework: junit
+sourceLanguage: java

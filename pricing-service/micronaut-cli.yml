@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: by.atsitou.pricing
+---
+testFramework: spock
+sourceLanguage: java
